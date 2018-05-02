@@ -1,0 +1,9 @@
+Pythonic Budget Interpreter Financial Analysis
+=======================================
+The number of months in the budget: 86
+Total Revenues: $36973911
+Average Revenue Change: $429929
+The most revenue received was: $1141606
+It was received in this month-year: Mar-12
+The least revenue (-loss) received was: $-1063151
+It was received in this month-year: Sep-10
